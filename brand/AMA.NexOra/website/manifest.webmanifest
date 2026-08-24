@@ -1,0 +1,10 @@
+{
+  "name": "AMA.NexOra",
+  "short_name": "NexOra",
+  "description": "Premium AI, cybersecurity, intelligent systems, and digital innovation.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071326",
+  "theme_color": "#0A1F44",
+  "icons": []
+}

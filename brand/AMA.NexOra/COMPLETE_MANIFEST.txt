@@ -1,0 +1,103 @@
+AMA.NexOra COMPLETE BRAND PACKAGE — MASTER MANIFEST
+===================================================
+
+01 — VECTOR / SVG
+- Master Transparent
+- Master Light
+- Master Dark
+- Horizontal
+- Vertical
+- Icon Only
+- App Icon
+- Favicon
+- Website Header
+- Social Profile
+- Business Card
+- Monochrome
+- Motion Logo (animated SVG)
+
+02 — PNG
+- Master Transparent 4096
+- Master Light 4096
+- Master Dark 4096
+- Horizontal 3200
+- Icon Only 2048
+- App Icon 1024
+- Website Header 2400
+- Social Profile 1080
+- Business Card 2100
+- Monochrome 4096
+
+03 — PRINT / INTERCHANGE
+- PDF logo exports
+- EPS vector exports
+- JPG 8K master light export
+- A4 letterhead SVG
+
+04 — ICON SYSTEM
+- favicon.ico
+- favicon.svg
+- favicon PNG: 16 / 32 / 48 / 64 / 180 / 192 / 256 / 512
+- App Icon 1024
+
+05 — PREMIUM BRAND GUIDELINES PDF
+AMA.NexOra_Premium_Brand_Guidelines.pdf
+Includes:
+- Brand overview
+- Logo system
+- Symbol construction
+- Color system
+- Typography
+- Clear space and minimum size
+- Dark/light/monochrome usage
+- Application guidance
+- Social media system
+- Digital + print specifications
+
+06 — COMPLETE LANDING PAGE
+WEBSITE/index.html
+WEBSITE/styles.css
+WEBSITE/script.js
+WEBSITE/manifest.webmanifest
+WEBSITE/robots.txt
+WEBSITE/assets/
+Features:
+- Responsive premium dark technology interface
+- Navigation
+- Hero
+- AI / Cybersecurity / Intelligent Systems / Digital Innovation sections
+- Enterprise metrics
+- Industries
+- Company manifesto
+- CTA / contact
+- Mobile navigation
+- Scroll reveal animation
+- SEO metadata
+- Favicon / PWA manifest
+
+07 — GLOBAL COMPANY MOCKUPS
+- Logo system presentation
+- Landing page concept
+- Corporate applications
+- Social media kit
+
+08 — SOCIAL MEDIA READY KIT — SVG + PNG
+- Instagram Profile 1080×1080
+- Instagram Post 1080×1080
+- Instagram Story 1080×1920
+- LinkedIn Banner 1584×396
+- X Header 1500×500
+- YouTube Cover 2560×1440
+
+09 — PRINT
+- Premium A4 Letterhead SVG
+- Business Card SVG / PDF / PNG
+
+BRAND COLORS
+Deep Navy     #0A1F44
+Electric Blue #009DFF
+Violet        #7B4DFF
+Silver        #C8CCD6
+
+VECTOR NOTE
+Core SVG logo and social assets are vector geometry and contain no embedded raster artwork.

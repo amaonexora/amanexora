@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2480 3508">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#009DFF"/><stop offset="1" stop-color="#7B4DFF"/></linearGradient></defs>
+<rect width="2480" height="3508" fill="#fff"/><path d="M0 0H2480V18H0Z" fill="url(#g)"/>
+<g transform="translate(160 145) scale(.36)"><path d="M300 170 170 250v160l130 80 130-80V250Z" fill="none" stroke="url(#g)" stroke-width="28" stroke-linejoin="round"/><path d="M170 250h-75m335 0h75M170 330h-55m315 0h55" fill="none" stroke="#009DFF" stroke-width="22" stroke-linecap="round"/><circle cx="75" cy="250" r="13" fill="#009DFF"/><circle cx="525" cy="250" r="13" fill="#7B4DFF"/><path d="M225 275c45-75 105-75 150 0s105 75 150 0" transform="translate(-75 0)" fill="none" stroke="url(#g)" stroke-width="24" stroke-linecap="round"/></g>
+<text x="430" y="300" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="700" fill="#0A1F44">AMA.<tspan fill="#009DFF">Nex</tspan><tspan fill="#7B4DFF">Ora</tspan></text>
+<text x="1760" y="220" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#0A1F44">AMA.NEXORA</text><text x="1760" y="270" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#64748b">AI · Cybersecurity · Intelligent Systems</text><text x="1760" y="315" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#64748b">amanexora.com</text>
+<line x1="160" y1="420" x2="2320" y2="420" stroke="#dce4ef" stroke-width="3"/>
+<text x="160" y="610" font-family="Arial,Helvetica,sans-serif" font-size="34" fill="#0A1F44">Date:</text><text x="160" y="790" font-family="Arial,Helvetica,sans-serif" font-size="38" fill="#0A1F44">Dear Partner,</text>
+<text x="160" y="900" font-family="Arial,Helvetica,sans-serif" font-size="31" fill="#5b6b80">Official AMA.NexOra corporate letterhead.</text>
+<g opacity=".035" transform="translate(1320 2100) scale(1.4)"><path d="M300 170 170 250v160l130 80 130-80V250Z" fill="none" stroke="#7B4DFF" stroke-width="36"/><path d="M170 250h-95m355 0h95" stroke="#009DFF" stroke-width="28"/><path d="M155 310c72-105 145-105 217 0s145 105 217 0" fill="none" stroke="#7B4DFF" stroke-width="30"/></g>
+<line x1="160" y1="3240" x2="2320" y2="3240" stroke="#dce4ef" stroke-width="3"/><text x="160" y="3315" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#6b7d94">AMA.NexOra · Intelligent Technology for the Future</text><text x="1900" y="3315" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#6b7d94">amanexora.com</text>
+</svg>
