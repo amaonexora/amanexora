@@ -1,0 +1,31 @@
+name: Brand package check
+
+on:
+  pull_request:
+    paths:
+      - "brand/AMA.NexOra/**"
+      - ".github/workflows/brand-package-check.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "brand/AMA.NexOra/**"
+      - ".github/workflows/brand-package-check.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate brand package
+        run: python brand/AMA.NexOra/validate_brand_package.py

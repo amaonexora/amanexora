@@ -1,10 +1,19 @@
 {
+  "id": "./",
   "name": "AMA.NexOra",
   "short_name": "NexOra",
   "description": "Premium AI, cybersecurity, intelligent systems, and digital innovation.",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#071326",
   "theme_color": "#0A1F44",
-  "icons": []
+  "icons": [
+    {
+      "src": "assets/08_AMA.NexOra_Favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
 }
