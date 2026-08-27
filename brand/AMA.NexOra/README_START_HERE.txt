@@ -1,36 +1,44 @@
-AMA.NexOra — COMPLETE BRAND PACKAGE
-===================================
+AMA.NexOra — BRAND SOURCE PACKAGE
+====================================
 
 START HERE
 
-This package contains the official AMA.NexOra brand identity system.
+This directory contains the editable AMA.NexOra identity sources and a static landing-page concept.
 
-Recommended folders:
-- SVG/             Master vector logos. Use these for design, web, print, and scaling.
-- PNG/             Transparent and background-ready raster logos.
-- PDF/             Print-ready logo files.
-- EPS/             Professional vector interchange files.
-- JPG/             Ultra-high-resolution 8K presentation export.
-- ICONS/           App icon and favicon set.
-- BRAND_GUIDELINES Premium identity manual in PDF.
-- WEBSITE/         Complete responsive HTML landing page and ready-to-use assets.
-- MOCKUPS/         Global-company visual application concepts.
-- SOCIAL_MEDIA/    Ready-made social templates in SVG + PNG.
-- PRINT/           Letterhead and corporate print asset.
+FOLDERS
+- svg/       Master vector logos for design, web, print, and scalable export.
+- website/   Responsive landing page with self-contained website assets.
+- social/    Editable SVG templates sized for major social platforms.
+- print/     Editable A4 letterhead source.
 
-Website quick start:
-1. Open WEBSITE/index.html in a browser.
-2. For local development, serve the WEBSITE folder with any static server.
-3. Upload the WEBSITE directory contents to your web host when ready.
+WEBSITE QUICK START
+1. Open website/index.html in a modern browser.
+2. For local development, serve the website directory with a static server.
+3. Before production deployment, confirm the contact address, domain, legal pages,
+   analytics, and deployment headers for the target environment.
 
-Brand colors:
-Deep Navy    #0A1F44
+QUALITY CHECK
+Run this command from the repository root:
+
+python brand/AMA.NexOra/validate_brand_package.py
+
+The check validates:
+- SVG and web-manifest syntax
+- Required website files
+- Local HTML asset references
+- Favicon and PWA icon configuration
+- Presence of a dark-background horizontal logo
+
+BRAND COLORS
+Deep Navy     #0A1F44
 Electric Blue #009DFF
-Violet       #7B4DFF
-Silver       #C8CCD6
+Violet        #7B4DFF
+Silver        #C8CCD6
 
-Logo source note:
-The SVG files are true vector geometry, built from SVG paths/shapes rather than embedded raster artwork.
+EXPORTS
+This Git repository is the editable source package. Raster and document exports
+(PNG, PDF, EPS, JPG, ICO, guidelines, and rendered mockups) must be produced and
+published separately as a versioned release.
 
 AMA.NexOra
 Premium Technology · AI · Cybersecurity · Intelligent Systems · Digital Innovation
